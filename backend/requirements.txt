@@ -7,6 +7,7 @@ sqlalchemy
 psycopg2-binary
 python-multipart
 httpx
+email-validator
 
 # Auth (login credentials)
 passlib[bcrypt]
