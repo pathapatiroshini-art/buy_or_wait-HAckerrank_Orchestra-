@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+sqlalchemy
+psycopg2-binary
+python-multipart
+httpx
+
+# Auth (login credentials)
+passlib[bcrypt]
+python-jose[cryptography]
+
+# Agentic AI
+groq
